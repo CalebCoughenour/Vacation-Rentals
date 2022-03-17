@@ -1,5 +1,13 @@
 .centered {
   text-align: center;
+  display: block;
+}
+
+.contact {
+  margin: 10px auto 0;
+  text-align: center;
+  display: block;
+  font-size: large;
 }
 
 img {
@@ -18,3 +26,10 @@ h2 {
   text-align: center;
 }
 
+body {
+  background-attachment: fixed;
+  background-image: url("https://demolay.org/wp-content/uploads/2018/12/Vacation.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
