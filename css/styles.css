@@ -40,4 +40,36 @@ body {
 
 .card {
   background-color: rgba(255, 255, 255, 0.445);
+  margin: 10px auto 10px;
+}
+
+.pricing {
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  background-color: #28a745 !important;
+}
+
+.package-card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.445);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  text-align: center;
+}
+
+ul {
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+li {
+  text-align: left;
 }
