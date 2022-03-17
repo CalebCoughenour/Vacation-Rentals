@@ -28,6 +28,6 @@ No known bugs
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+[MIT](https://github.com/jarretjeter/Vacation-Rentals/blob/main/LICENSE.txt)
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) 3/17/2022 Caleb Coughenour and Jarret Jeter
