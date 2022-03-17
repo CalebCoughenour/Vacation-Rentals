@@ -1,3 +1,7 @@
+.centered {
+  text-align: center;
+}
+
 img {
   margin: 0 auto 10px;
   height: 500px;
@@ -5,3 +9,12 @@ img {
   border: 2px solid black;
   display: block;
 }
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
